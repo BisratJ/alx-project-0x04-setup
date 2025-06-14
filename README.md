@@ -47,7 +47,7 @@ By completing this project series, you will:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sahe20/alx-project-0x04-setup.git
+   git clone https://github.com/BisratJ/alx-project-0x04-setup.git
    cd alx-project-0x04
    npm install
    or
@@ -83,9 +83,9 @@ Context is great for moderate, shared app state.
 Redux excels at managing large-scale, side-effect-heavy applications.
 
 ## 👤 Author
-Musa Sahe Jackiteh
-Computer Engineer | Software Developer
-Liberia
+Bisrat Gizaw
+Computer Science | Software Developer
+ETHIOPIA
 Portfolio | LinkedIn | GitHub
 
 ## 📄 License
